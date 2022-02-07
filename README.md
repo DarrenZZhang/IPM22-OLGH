@@ -2,7 +2,7 @@
 
 ### Ordinal-Preserving Latent Graph Hashing (OLGH)
 
-The details can be found in the [IPM 2021 paper](xxxx). 
+The details can be found in the [IPM 2021 paper](IPMxxxx). 
 
 This code has been evaluated on Matlab.
 
