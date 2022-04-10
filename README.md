@@ -21,8 +21,8 @@ Zheng Zhang, Chi Man Pun, ``Learning Ordinal Constraint Binary Codes for Fast Si
   title={Learning Ordinal Constraint Binary Codes for Fast Similarity Search},  
   author={Zhang, Zheng and Pun, Chi Man},  
   journal={Information Processing and Management},  
-  volume={00},  
-  number={00},  
+  volume={59},  
+  number={3},  
   pages={1--21},  
   year={2022},  
   publisher={Elsevier}  
