@@ -4,11 +4,11 @@
 
 The details can be found in the [IPM 2021 paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457322000449). 
 
-This code has been evaluated on Matlab.
+This code has successfully been evaluated on Matlab.
 
 #### Resources:
 
-We supply the Multi-view Caltech101 dataset, which can be downloaded from the [Dataset link](https://github.com/willard-yuan/hashing-baseline-for-image-retrieval).
+We supply the Cifar10 and Caltech256 datasets, which can be downloaded from the [Dataset link](https://github.com/willard-yuan/hashing-baseline-for-image-retrieval).
 
 #### Citation:
 
